@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-BDD22C5_HUYTEST.CtyABC2023"
+  DTS:DTSID="{CD912F81-E586-4095-A8B6-6C41A4AF65EC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-BDD22C5\HUYTEST;Initial Catalog=CtyABC2023;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS_Staging-{CD912F81-E586-4095-A8B6-6C41A4AF65EC}DESKTOP-BDD22C5\HUYTEST.CtyABC2023;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

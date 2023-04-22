@@ -1,0 +1,9 @@
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\bin\Model.asdatabase
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\bin\Model.deploymenttargets
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\bin\Model.deploymentoptions
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\SSAS_Demo.smproj.AssemblyReference.cache
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\SSAS_Demo.smproj.SuggestedBindingRedirects.cache
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\SSAS_Demo.smproj.CoreCompileInputs.cache
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\Model.asdatabase
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\Model.deploymentoptions
+D:\DATA WAREHOUSE\SSAS_Demo\SSAS_Demo\obj\Development\Model.deploymenttargets

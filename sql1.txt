@@ -1,0 +1,1 @@
+SELECT [EmployeeKey]     ,[EmployeeNationalIDAlternateKey]    ,[FirstName]     ,[LastName]     ,[Title]     ,[HireDate]     ,[BirthDate]     ,[EmailAddress]     ,[Phone]     ,[MaritalStatus]     ,[Department]     ,[StartDate]     ,isnull([EndDate],'2099-12-31')EndDate     ,[Status] FROM [ABC_DW_Demo].[dbo].[DimEmployee]
